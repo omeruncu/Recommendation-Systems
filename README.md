@@ -59,6 +59,7 @@ This module covers the following topics:
 ## Study Cases
 ### Case 1 
 Armut, Turkey's largest online service platform, brings together service providers and those who want to receive service. It provides easy access to services such as cleaning, renovation, and transportation with a few touches on your computer or smartphone. It is intended to create a product recommendation system with Association Rule Learning using the dataset containing service users and the services and categories these users receive.
+* Project Link: [https://www.kaggle.com/code/omeruncu/association-rule-based-recommender-system]
 
 ### Case 2
 Make 10 movie recommendations for the given user ID using the item-based and user-based recommender methods.
