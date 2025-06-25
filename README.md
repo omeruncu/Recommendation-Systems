@@ -67,7 +67,7 @@ Make 10 movie recommendations for the given user ID using the item-based and use
 
 ### Bonus Case
 Make the most suitable product suggestion for the cart information using the association rule.
-* Project Link: [https://github.com/omeruncu/ChartWhisperer]([https://github.com/omeruncu/Movie-Recommender](https://github.com/omeruncu/ChartWhisperer))
+* Project Link: [https://github.com/omeruncu/ChartWhisperer](https://github.com/omeruncu/ChartWhisperer)
 
 <!-- CONTACT -->
 ## Contact
