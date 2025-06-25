@@ -65,6 +65,10 @@ Armut, Turkey's largest online service platform, brings together service provide
 Make 10 movie recommendations for the given user ID using the item-based and user-based recommender methods.
 * Project Link: [https://github.com/omeruncu/Movie-Recommender](https://github.com/omeruncu/Movie-Recommender)
 
+### Bonus Case
+Make the most suitable product suggestion for the cart information using the association rule.
+* Project Link: [https://github.com/omeruncu/ChartWhisperer]([https://github.com/omeruncu/Movie-Recommender](https://github.com/omeruncu/ChartWhisperer))
+
 <!-- CONTACT -->
 ## Contact
 
