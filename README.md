@@ -76,7 +76,7 @@ Make the most suitable product suggestion for the cart information using the ass
 * Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
 
 ## Certificate
-[https://learning.miuul.com/certificates/bjuintj8ai]
+[https://learning.miuul.com/certificates/u6jdsgyfuo]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
